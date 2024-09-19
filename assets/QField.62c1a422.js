@@ -1,0 +1,1 @@
+import{k as e,aK as a,aL as t,aS as s,aN as r}from"./index.e88ad099.js";var l=e({name:"QField",inheritAttrs:!1,props:{...a,tag:{type:String,default:"label"}},emits:t,setup(){return s(r({tagProp:!0}))}});export{l as Q};
